@@ -1,13 +1,13 @@
 Kodi 17.X Krypton
 
 01. 스킨 설치<br>
-https://forum.kodi.tv/showthread.php?tid=307568<br>
-압축 파일에서 설치<br>
-	https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon<br>
-	repository.alanon-1.0.2.zip<br>
-	https://github.com/marcelveldt/repository.marcelveldt/tree/master/repository.marcelveldt<br>
-	repository.marcelveldt-1.0.1.zip<br>
-저장소에서 설치 - 모든 저장소<br>
+-https://forum.kodi.tv/showthread.php?tid=307568<br>
+-압축 파일에서 설치<br>
+--https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon<br>
+--repository.alanon-1.0.2.zip<br>
+--https://github.com/marcelveldt/repository.marcelveldt/tree/master/repository.marcelveldt<br>
+--repository.marcelveldt-1.0.1.zip<br>
+-저장소에서 설치 - 모든 저장소<br>
 	모양새<br>
 		스킨<br>
 			Eminence 2.0 MOD<br>
