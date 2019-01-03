@@ -23,6 +23,7 @@ if not exist "%ProgramFiles(x86)%" (set dir=%ProgramFiles%) else set dir=%Progra
 set arial=%dir%\Kodi\media\Fonts\arial.ttf
 
 echo.
+
 echo ### Kodi 시스템 글꼴 %sysFont% 다운로드 ###
 %curl% "%dst%\%sysFont%" %fontsUrl%/%sysFont%
 echo.
