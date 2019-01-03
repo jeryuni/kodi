@@ -1,33 +1,33 @@
 Kodi 17.X Krypton
 
-01. 스킨 설치<br>
-- https://forum.kodi.tv/showthread.php?tid=307568<br>
-- 압축 파일에서 설치<br>
--- https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon<br>
--- repository.alanon-1.0.2.zip<br>
--- https://github.com/marcelveldt/repository.marcelveldt/tree/master/repository.marcelveldt<br>
--- repository.marcelveldt-1.0.1.zip<br>
-- 저장소에서 설치 - 모든 저장소<br>
-	모양새<br>
-		스킨<br>
-			Eminence 2.0 MOD<br>
-	비디오 애드온<br>
-		Library Data Provider<br>
-	서비스<br>
-		Next Service notification<br>
-	프로그램<br>
-		Global Search<br>
-		ToolBox Script<br>
-	날씨<br>
-	Yahoo! Weather<br>
-<br>
-02. Kodi 글꼴 설정 스크립트<br>
-OSMC<br>
-	https://github.com/jeryuni/kodi/raw/master/osmc-01-font.sh<br>
-Win32/64<br>
-	https://github.com/jeryuni/windows/raw/master/tools/curl.exe<br>
-	https://github.com/jeryuni/kodi/raw/master/windows-01-font.cmd<br>
-<br>
+1. 스킨 설치
+* https://forum.kodi.tv/showthread.php?tid=307568
+* 압축 파일에서 설치
+- https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon
+- repository.alanon-1.0.2.zip
+- https://github.com/marcelveldt/repository.marcelveldt/tree/master/repository.marcelveldt
+- repository.marcelveldt-1.0.1.zip
+* 저장소에서 설치 - 모든 저장소
+- 모양새
++ 스킨
+ - Eminence 2.0 MOD
+- 비디오 애드온
+		Library Data Provider
+	서비스
+		Next Service notification
+	프로그램
+		Global Search
+		ToolBox Script
+	날씨
+	Yahoo! Weather
+
+02. Kodi 글꼴 설정 스크립트
+OSMC
+	https://github.com/jeryuni/kodi/raw/master/osmc-01-font.sh
+Win32/64
+	https://github.com/jeryuni/windows/raw/master/tools/curl.exe
+	https://github.com/jeryuni/kodi/raw/master/windows-01-font.cmd
+
 03. 설정
 전문가
 <general><settinglevel>3</settinglevel></general>
