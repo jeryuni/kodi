@@ -1,6 +1,10 @@
 Kodi 17.X Krypton
 
 1. 스킨 설치
+* 1단계
+    - 2단계
+    	+ 3단계
+            = 4단계
 * https://forum.kodi.tv/showthread.php?tid=307568
 * 압축 파일에서 설치
 - https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon
