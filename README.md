@@ -28,6 +28,10 @@ https://forum.kodi.tv/showthread.php?tid=307568
     + https://github.com/jeryuni/windows/raw/master/tools/curl.exe
     + https://github.com/jeryuni/kodi/raw/master/windows-01-font.cmd
 ## 3. 설정
+- OSMC
+    + ~/.kodi/userdata/guisettings.xml
+- WIn32/64
+    + %APPDATA%\Kodi\userdata\guisettings.xml
 - 전문가
 ```xml
 <general><settinglevel>3</settinglevel></general>
