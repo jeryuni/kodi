@@ -2,12 +2,12 @@
 
 ## 1. 스킨 설치
 https://forum.kodi.tv/showthread.php?tid=307568
-+ 압축 파일에서 설치
+- 압축 파일에서 설치
     - https://github.com/Alanon202/repository.alanon/tree/master/leia/repository.alanon
-        = repository.alanon-1.0.2.zip
+        + repository.alanon-1.0.2.zip
     - https://github.com/marcelveldt/repository.marcelveldt/tree/master/repository.marcelveldt
-        = repository.marcelveldt-1.0.1.zip
-+ 저장소에서 설치
+        + repository.marcelveldt-1.0.1.zip
+- 저장소에서 설치
     - 모든 저장소
         - 모양새
             - 스킨
