@@ -31,11 +31,23 @@ https://forum.kodi.tv/showthread.php?tid=307568
 + 전문가 = <general><settinglevel>3</settinglevel></general>
 + 인터페이스
     - 스킨
-        + 스킨 = Eminence 2.0 MOD = <lookandfeel><skin>skin.eminence.2.mod.Krypton</skin></lookandfeel>
-        + 글꼴 : Arial = <lookandfeel><font>Arial</font></lookandfeel>
+        + 스킨 = Eminence 2.0 MOD
+		'''xml
+		<lookandfeel><skin>skin.eminence.2.mod.Krypton</skin></lookandfeel>
+		'''
+        + 글꼴 : Arial
+		'''xml
+		<lookandfeel><font>Arial</font></lookandfeel>
+		'''
     - 지역
-        + 언어 : Korean = <locale><country>Korea (12h)</country><language>resource.language.ko_kr</language></locale>
-        + 키보드 레이아웃 : English QWERTY, Korean ㄱㄴㄷ = <locale><keyboardlayouts>English QWERTY|Korean ㄱㄴㄷ</keyboardlayouts></locale>
+        + 언어 : Korean
+		'''xml
+		<locale><country>Korea (12h)</country><language>resource.language.ko_kr</language></locale>
+		'''
+		'''xml
+        + 키보드 레이아웃 : English QWERTY, Korean ㄱㄴㄷ
+		<locale><keyboardlayouts>English QWERTY|Korean ㄱㄴㄷ</keyboardlayouts></locale>
+		'''
   라이브러리
   일반
   파일 확장자 보기 : 체크 해제
